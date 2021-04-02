@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zebragrrl
 - 🛠 I work with the [Eugene Makerspace](http://www.eugenemakerspace.com)
-- 🔍 EMS can be found at "[@eugenemakerspace](https://github.com/eugenemakerspace)" on GitHub
+- 🔍 EMS can be found at [@eugenemakerspace](https://github.com/eugenemakerspace) on GitHub
 - 👤 More about me: [EMS Member Profile](https://wiki.eugenemakerspace.com/User:Zebragrrl)
 - 🔊 How to reach me: [\@zebragrrl on the EMS slack](http://bit.ly/ems-slack)
 
